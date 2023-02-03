@@ -1,5 +1,5 @@
 shop={'mango':400,
-'paw paw' : 200,
+'paw paw' : 100,
 'apple' :200,
 'banana':100,
 'Juice':[20,30,40,20]
