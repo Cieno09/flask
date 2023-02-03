@@ -27,10 +27,10 @@ def check_staff():
 
 
 def buy_items():
-    shop ={'banana':{'price':350,'qty': 3},
-        'apple':{'price':200, 'qty':1},
-        'paw paw':{'price':150,'qty':3},
-        'orange':{'price':100, 'qty':4} }
+    shop ={'banana':{'price':3500,'qty': 3},
+        'apple':{'price':2000, 'qty':1},
+        'paw paw':{'price':1500,'qty':3},
+        'orange':{'price':1000, 'qty':4} }
 
     amount =0
     quantity=0

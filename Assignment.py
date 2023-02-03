@@ -16,7 +16,7 @@ if time == '5:00':
 elif time == '12:00':
     print("Lunch break")
 elif time == '9:00':
-    print("go to bed")
+    print("Grind Hard")
 else:
     print ('do as you like  ')   
 

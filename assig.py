@@ -23,7 +23,7 @@
 #    print("The factorial of",n,"is",f)
 
 
-test_dict = {'Gfg' : 1, 'for' : 2, 'CS' : 3}
+test_dict = {'Gfg' : 9, 'for' : 2, 'CS' : 3}
 
 
 
