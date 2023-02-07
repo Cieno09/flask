@@ -16,6 +16,9 @@ def landing():
 def admin():
     return ("<h1> WELCOME TO THE ADMIN PANEL</h1>")
 
+@app.route("/new-admin")
+def new_admin():
+    pass
 
 @app.route("/home")  
 def welcome():
