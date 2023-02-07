@@ -12,6 +12,10 @@ def home():
 def landing():
     return render_template("link.html")    
 
+@app.route("/admin")
+def admin():
+    return ("<h1> WELCOME TO THE ADMIN PANEL</h1>")
+
 
 @app.route("/home")  
 def welcome():
